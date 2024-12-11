@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.skin {
+    background: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.skin img {
+    max-width: 100%;
+    height: auto;
+}
+.skin h2 {
+    color: rgba(0, 0, 0, 0);    
+}
+.skin p {
+    color: rgb(0, 0, 0);
+}
